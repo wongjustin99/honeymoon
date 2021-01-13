@@ -1,7 +1,7 @@
 ---
 title: 10 things that r cool
 date: 2021-01-13T04:23:41.852Z
-description: don't want to do an into
+description: don't want to do an intro
 image: img/arch-slide.jpeg
 ---
 
